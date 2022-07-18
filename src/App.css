@@ -36,3 +36,52 @@
     transform: rotate(360deg);
   }
 }
+
+.Image{
+  width: 120px;
+  height: 45px;
+  margin-top: 10px;
+}
+
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+input[type=date] {
+  -moz-appearance: textfield;
+}
+
+.Table_img{
+  width: 100px;
+  height: 50px;
+}
+.Table_top__img{
+  width: 60px;
+  height: 30px;
+}
+.QR{
+  width: 140px;
+  height: 150px;
+  margin-left: 130px;
+}
+.link{
+  text-decoration: none;
+}
+.Image{
+  /* border-bottom-right-radius: 30% 50%; */
+  border-top-right-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+.Image_1{
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+  /* background-image: url(https://i1.wp.com/www.essayhell.com/wp-content/uploads/2016/05/gray-point-background.jpg?fit=1920%2C1080&ssl=1); */
+  padding: 50px;
+  background-color: #9D9D9D;
+}
