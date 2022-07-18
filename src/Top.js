@@ -148,6 +148,7 @@ export default class Top extends Component {
     return (
       <Box sx={{ border: "2px solid #B7CADB", margin: "20px" }}>
         <Box>Good</Box>
+        <Box>Bad</Box>
         {/* <Typography
           id="demo-controlled-radio-buttons-group"
           level="body3"
